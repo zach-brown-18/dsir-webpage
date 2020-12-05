@@ -1,0 +1,29 @@
+﻿CLASS,MAIN PAGE BRANCHES,SECONDARY BRANCHES,TERTIARY,QUATERNARY,ITEM LINK,PAGE DESCRIPTION
+DSIR,Health,[misc health links],,,,Links to various posts or the initial docs sent to us at class start
+1019,Community,Community,,,,List of slack channels + links; Student-run Discord link or other student-run community resources
+1019,Community,Instructors list + contact,,,,
+1019,Community,Classmates lists,[list of student names],Linkedin,,Possibly a button to automatically add everyone to your linkedin?
+1019,Community,Classmates lists,[list of student names],Blog posts links,,
+1019,Community,Shared code github,,,,
+1019,Career,Tosin + contact,,,,
+1019,Career,Outcomes schedule + desc,,,,
+1019,Career,Links,,,,"Resume, tracker page, linkedin advice, etc."
+DSIR,Getting Started,[misc start up links],,,,Links to pages that have the initial set up information
+1019,Academic,Assignments,,,,"Contains the assigned dates, due dates, and turn in links for submissions"
+1019,Academic,Class Schedule,Week 1,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 2,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 3,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 4,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 5,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 6,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 7,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 8,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 9,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 10,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 11,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 12,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+1019,Academic,Class Schedule,Week 13,,,"Schedule + pre-work; IF a given class has occured, links to repo + lesson recording"
+DSIR,Extracurricular,PDFs + textbooks,,,,Misc links
+DSIR,Extracurricular,Blog posts/articles,,,,Misc links
+DSIR,Extracurricular,Misc + other documentation,,,,Misc links
+DSIR,Technical (proposed),[many],,,,"Contains actual academic materials; e.i. definitions of concepts & models, examples, documentation, etc."
