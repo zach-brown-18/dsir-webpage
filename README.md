@@ -5,9 +5,9 @@
 2. Navigate to the repo (dsir-webpage) in your command line.
 3. Type 'python run.py'
 
-**Database Structure**
+**Database Structure**  
 See the models.py folder
 
-**GUI**
+**GUI**  
 The routes.py file renders any templates.  
 The templates folder holds any html, css, javascript files for the front end design.
