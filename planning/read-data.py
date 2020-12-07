@@ -6,3 +6,4 @@ df.head()
 mask = df['MAIN PAGE BRANCHES'] == 'Community'
 df[mask]
 
+df
