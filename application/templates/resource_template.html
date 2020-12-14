@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style>
+           
+      .divider {
+        clear: both;
+      }
+        
+      .tagDiv {
+        border: 5px outset darkgray;
+        background-color: lightgray;
+        text-align: center;
+        align-items: center;
+        float: left;
+        height: 40px;
+        width: 80px;
+        margin: 10px;
+      }
+        
+      .resDiv {
+        border: 5px outset darkgray;
+        background-color: lightgray;
+        text-align: center;
+        float: left;
+        height: 140px;
+        width: 100px;
+        margin: 10px;
+      }
+    </style>
+      
+    <meta charset="utf-8">
+    <title>DSIR Resources</title>
+  </head>
+  <body>
+    <br>
+    <h1>DSIR Resources</h1>
+      
+    <hr>
+      
+      <h3>Filters</h3>
+      
+      {% if tags %}
+      {{ tags|safe }}
+      {% else %}
+      <p>No Tags Found</p>
+      {% endif %}
+      
+      <div class="divider">
+      </div>
+      
+    <hr>
+        
+      <h3>Resources</h3>
+      
+      <!-- add computer generated buttons here   -->
+
+      {% if resources %}
+      {{ resources|safe }}
+      {% else %}
+      <p>No Resources Found</p>
+      {% endif %}
+      
+  </body>
+</html>
