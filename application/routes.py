@@ -19,11 +19,12 @@ def call():
 
 @app.route("/template_practice")
 def practice():
-    if request.args['clicked'] != '':
-        if request.args['clicked'] in mask_list:
-            mask_list.remove(request.args['clicked'])
-        else:
-            mask_list.append(request.args['clicked'])
+    if 'clicked' in request.args.keys():
+        if request.args['clicked'] != '':
+            if request.args['clicked'] in mask_list:
+                mask_list.remove(request.args['clicked'])
+            else:
+                mask_list.append(request.args['clicked'])
 
     my_tags = ''
     for t in read_data.df['MAIN PAGE BRANCHES'].unique():
